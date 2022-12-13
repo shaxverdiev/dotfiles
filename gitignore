@@ -1,0 +1,16 @@
+#Vim files
+*.swp
+*.swn
+*.swo
+*.swm
+*.swn
+*.swl
+*.swk
+
+#Dolphin files
+*.directory
+
+*~
+
+#Byebug
+.byebug_history
